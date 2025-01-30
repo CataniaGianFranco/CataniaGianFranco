@@ -20,5 +20,6 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=godot&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=unity&theme=dark" />
   </a>
 </p>
